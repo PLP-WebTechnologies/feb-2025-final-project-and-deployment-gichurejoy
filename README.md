@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+https://plp-ecommerce.netlify.app/
+
 # E-commerce Database System
 
 ## 📝 Description
@@ -64,6 +65,3 @@ The database includes the following tables:
 - cart_items
 - wishlist_items
 
-=======
-https://plp-ecommerce.netlify.app/
->>>>>>> 434c825176cf4f98a7ec0cab7a6d35f5b615957c
